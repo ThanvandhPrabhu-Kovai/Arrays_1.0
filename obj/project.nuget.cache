@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXxMVZ/RS+8O6J9MQeAif8leAtSGzErlyo33O5XMbFcK0Hd7xPCS5lqNAoQR+wNeBnBbgGy3LUkWcvUwNvFIJw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Kovai.Co\\Internship\\DotNet\\Console\\Arrays_1.0\\Arrays_1.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanvandh Prabhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
